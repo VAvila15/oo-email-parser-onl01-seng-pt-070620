@@ -14,3 +14,4 @@ class EmailAddressParser
   end
   .flatten.unique
 end
+end
